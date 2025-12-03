@@ -34,3 +34,12 @@ python3 -m venv .venv
 source .venv/bin/activate   # macOS
 python -m pip install --upgrade pip
 python -m pip install -r requirements.txt
+
+## Documentation
+
+This project includes auto-generated API documentation created with `pydoc`.
+
+- `demo_tracker.html` – generated with:
+
+  ```bash
+  python3 -m pydoc -w demo_tracker
