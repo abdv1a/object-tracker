@@ -1,3 +1,7 @@
+[![Python CI](https://github.com/abdv1a/object-tracker/actions/workflows/python-tests.yml/badge.svg)](https://github.com/abdv1a/object-tracker/actions/workflows/python-tests.yml)
+
+# Real-Time Object Tracker & Video Annotator
+
 # Real-Time Object Tracker & Video Annotator
 
 ## Project Overview
