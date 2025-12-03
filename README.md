@@ -2,17 +2,17 @@
 
 # Real-Time Object Tracker & Video Annotator
 
-# Real-Time Object Tracker & Video Annotator
-
 ## Project Overview
 This project implements a real-time object tracking and video annotation system using a pretrained YOLO model, OpenCV, and Python.
 
 The program:
-- Accepts webcam or video file input.
-- Runs object detection on each frame.
-- Draws bounding boxes and labels.
-- Saves an annotated `.mp4` video.
+
+- Accepts webcam or video file input.  
+- Runs object detection on each frame.  
+- Draws bounding boxes and labels.  
+- Saves an annotated `.mp4` video.  
 - (Optional) Shows the detection window live.
+
 
 ---
 
